@@ -2,3 +2,4 @@ datasets
 best_model.pkl
 census_tracts_with_demographics.gpkg
 print_directory.py
+.ipynb_checkpoints
